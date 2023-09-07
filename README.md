@@ -21,8 +21,8 @@ https://github.com/fesantospalmeira/bot-discord
 2. Instale as dependências:
 npm install
 
-3. Configure as variáveis de ambiente em um arquivo `.env` com seu Token, Client ID e Guild ID:<br>
-TOKEN=seu-token-do-bot<br>
+3. Configure as variáveis de ambiente em um arquivo `.env` com seu Token, Client ID e Guild ID:
+<br>TOKEN=seu-token-do-bot<br>
 CLIENT_ID=seu-client-id<br>
 GUILD_ID=seu-guild-id
 
